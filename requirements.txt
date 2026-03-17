@@ -1,0 +1,20 @@
+# ====================
+# Core Framework
+# ====================
+Flask==3.0.*
+Werkzeug==3.0.*
+
+# ====================
+# Authentication & Security
+# ====================
+Flask-Login==0.6.*
+
+# ====================
+# Database Drivers
+# ====================
+PyMySQL==1.1.*
+
+# ====================
+# Environment & Utilities
+# ====================
+python-dotenv==1.0.*
